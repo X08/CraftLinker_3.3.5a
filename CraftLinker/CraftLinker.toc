@@ -1,7 +1,7 @@
 ## Interface: 30300
 ## Title: CraftLinker
 ## Notes: Whisper "craft" to get an auto-reply listing my crafting profession links
-## Author: ExOAte
+## Author: X08//Dream
 ## Version: 1.0
 ## SavedVariablesPerCharacter: CraftLinkerDB
 
