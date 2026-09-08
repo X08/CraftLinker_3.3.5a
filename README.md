@@ -1,3 +1,5 @@
+[Also check out my other addons!](https://github.com/X08/X08_WoW_3.3.5a)
+
 ### [CraftLinker](https://github.com/X08/CraftLinker_3.3.5a)
 Automated tradeskill linking for WoW 3.3.5a clients.
 > Automatically links your crafted items in chat so others can see what you can make, without you having to do it manually.
